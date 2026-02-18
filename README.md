@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://github.com/Z-root-X/Z-root-X/blob/main/assets/header.png?raw=true" alt="Profile Header" width="100%" />
+  <img src="https://github.com/zihaaaad/zihaaaad/blob/main/assets/header.png?raw=true" alt="Profile Header" width="100%" />
 </div>
 
 <div align="center">
-  <h1>Hi, I'm <a href="https://github.com/Z-root-X">Z-root-X</a> 👨‍💻</h1>
+  <h1>Hi, I'm <a href="https://github.com/zihaaaad">zihaaaad</a> 👨‍💻</h1>
   
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=20C20E&center=true&vCenter=true&width=500&lines=Full-Stack+Product+Architect;Building+Enterprise+ERPs;UI%2FUX+System+Specialist;React+%7C+Firebase+%7C+TanStack" alt="Typing SVG" />
@@ -13,8 +13,8 @@
     <em>Building complex enterprise systems with premium aesthetics.</em>
   </p>
 
-  <a href="https://github.com/Z-root-X">
-    <img src="https://komarev.com/ghpvc/?username=Z-root-X&style=flat-square&color=0e75b6&label=PROFILE+VIEWS" alt="Profile Views" />
+  <a href="https://github.com/zihaaaad">
+    <img src="https://komarev.com/ghpvc/?username=zihaaaad&style=flat-square&color=0e75b6&label=PROFILE+VIEWS" alt="Profile Views" />
   </a>
 </div>
 
@@ -136,7 +136,7 @@ I don't just write code; I engineer **complete digital ecosystems**. My specialt
       <ul>
         <li><strong>Architecture</strong>: Monorepo, Shared Backend</li>
         <li><strong>Tech</strong>: React 19, Flutter 3.0, Firebase</li>
-        <li><strong>Link</strong>: <a href="https://github.com/Z-root-X/assunnahskill">View Code</a></li>
+        <li><strong>Link</strong>: <a href="https://github.com/zihaaaad/assunnahskill">View Code</a></li>
       </ul>
     </td>
     <td width="33%">
@@ -146,7 +146,7 @@ I don't just write code; I engineer **complete digital ecosystems**. My specialt
       <ul>
         <li><strong>Tech</strong>: React 18, RBAC Security, jsPDF</li>
         <li><strong>Feature</strong>: "Live Class Pulse" Real-time Sync</li>
-        <li><strong>Link</strong>: <a href="https://github.com/Z-root-X/amalytics">View Code</a></li>
+        <li><strong>Link</strong>: <a href="https://github.com/zihaaaad/amalytics">View Code</a></li>
       </ul>
     </td>
     <td width="33%">
@@ -156,7 +156,7 @@ I don't just write code; I engineer **complete digital ecosystems**. My specialt
       <ul>
         <li><strong>Tech</strong>: Next.js 15, GSAP, Framer Motion</li>
         <li><strong>Feature</strong>: 120fps Animations & Edge Auth</li>
-        <li><strong>Link</strong>: <a href="https://github.com/Z-root-X/zihadhasan">View Code</a></li>
+        <li><strong>Link</strong>: <a href="https://github.com/zihaaaad/zihadhasan">View Code</a></li>
       </ul>
     </td>
   </tr>
@@ -183,13 +183,13 @@ I don't just write code; I engineer **complete digital ecosystems**. My specialt
 ---
 
 <div align="center">
-  <img src="https://github.com/Z-root-X/Z-root-X/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
+  <img src="https://github.com/zihaaaad/zihaaaad/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/Z-root-X?template=classic&theme=radical&base=header,activity,community,repositories,metadata&isocalendar=1&isocalendar.duration=half-year&achievements=1&config.animations=true&config.timezone=Asia%2FDhaka&v=final_polish_v2" alt="Radical Metrics" width="100%" />
+  <img src="https://metrics.lecoq.io/zihaaaad?template=classic&theme=radical&base=header,activity,community,repositories,metadata&isocalendar=1&isocalendar.duration=half-year&achievements=1&config.animations=true&config.timezone=Asia%2FDhaka&v=final_polish_v2" alt="Radical Metrics" width="100%" />
 </div>
 
 ---
@@ -207,6 +207,6 @@ I don't just write code; I engineer **complete digital ecosystems**. My specialt
 
 <div align="center">
   <h3><em>"Reality is broken. Game designers can fix it."</em></h3>
-  <p>Crafted with 🧠 and 💻 by <strong>Z-root-X</strong></p>
+  <p>Crafted with 🧠 and 💻 by <strong>zihaaaad</strong></p>
   <p>2025 © All Rights Reserved</p>
 </div>
