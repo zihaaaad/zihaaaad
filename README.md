@@ -1,7 +1,7 @@
 <div align="left">
   <p><strong><font size="7">Zihad Hasan</font></strong><br>
   <strong><font size="5">Generative AI & Full-Stack Developer · Workflow Automation · Cybersecurity</font></strong><br>
-  Bogura, Bangladesh · <a href="https://zihadhasan.web.app/">Website</a> · <a href="https://zihaaaad.github.io/about/">Portfolio</a> · <a href="https://www.linkedin.com/in/pkmzihad/">LinkedIn</a> · <a href="https://github.com/zihaaaad">GitHub</a> · <a href="mailto:zihad.connects@gmail.com">Email</a></p>
+  Dhaka, Bangladesh · <a href="https://zihadhasan.web.app/">Website</a> · <a href="https://zihaaaad.github.io/about/">Portfolio</a> · <a href="https://www.linkedin.com/in/pkmzihad/">LinkedIn</a> · <a href="https://github.com/zihaaaad">GitHub</a> · <a href="mailto:zihad.connects@gmail.com">Email</a></p>
 </div>
 
 <p align="left">
@@ -29,17 +29,18 @@ Generative AI and full-stack developer who ships production software across web,
 * **Frontend & Mobile:** React 19, Next.js 15, Flutter, Redux Toolkit, Zustand, Tailwind CSS, HTML5, Modern CSS
 * **Desktop & System Software:** Electron, CustomTkinter, FFmpeg, SQLite (WAL Mode), Native OS Font Registry APIs
 * **Backend, Systems & Cloud:** Node.js, Express, FastAPI, SQLAlchemy ORM, Alembic, JWT Auth, Firebase (Realtime Database, Firestore, Auth), Supabase, PostgreSQL, SQLite, REST APIs, GraphQL, Docker, Google Cloud (Kubernetes), Red Hat Enterprise Linux (RHEL), Vercel
+* **AI Integration:** LLM Integration (Google Gemini API), MCP (Model Context Protocol), Prompt Engineering
 * **Cybersecurity:** Penetration Testing, CVSS Scoring, RLS & Access-Control Auditing, Ethical Hacking, CTF, Kali Linux
 
 ---
 
 <p><strong><font size="6">Professional Experience</font></strong></p>
 
-**Core AI Team Member & Assistant Trainer** — As-Sunnah Foundation & ASSDI · *May 2024 – Present*
+**Assistant Educator** — As-Sunnah Skill Development Institute · *Nov 2024 – Present*
 * Automated event registration and ticketing (Google Apps Script + LockService concurrency), cutting admin workload by 40%.
-* Penetration-tested the institute's platform; found a **CVSS 9.1 critical Supabase RLS flaw** exposing student PII and delivered a 7-point remediation roadmap.
+* Run recurring penetration tests on the institute's platform (dedicated test lab, findings tracked on GitHub); found a **CVSS 9.1 critical Supabase RLS flaw** exposing student PII and delivered a 7-point remediation roadmap.
 * Coordinated takedown of a public student-data leak within 24 hours.
-* Ran admissions across 14+ course batches — 1,202 exam invitations sent — and trained hundreds of students on Generative AI tools and digital safety.
+* Delivered Generative AI & digital-literacy training across 20+ course batches (Batch 20–41); ran admissions comms including 1,202 exam invitations in one cycle and marketing emails to up to 8,000 recipients.
 * Built the official production app for the institute (Flutter, Android/iOS/Web): course discovery, exam dashboard, donation processing, Bengali localization.
 
 **Internal Member** — Cyber Bangla · *Jan 2020 – Present*
@@ -52,6 +53,7 @@ Generative AI and full-stack developer who ships production software across web,
 | Repository | Focus & Architecture | Core Stack | Links |
 | :--- | :--- | :--- | :--- |
 | **institute-soc-monitor** | Agentless SOC platform for 100–300+ PCs across multiple subnets: rogue-device detection, MITRE ATT&CK mapping, CVSS risk scoring, Prometheus/Grafana dashboards. | Python, Prometheus, Grafana, WMI | [Code](https://github.com/zihaaaad/institute-soc-monitor) |
+| **Family Day ASF 2026 Tournament App** | Real-time sports tournament platform: live scoreboards, automated standings, a referee match console, and a PIN-gated admin dashboard with offline-fallback PWA support. | Next.js 15, Supabase, PWA | [Code](https://github.com/zihaaaad/FamilyDay2026) |
 | **Rupantor** | Desktop font management suite with Adobe After Effects/Bridge automation, OS-level font registry mapping, and offline licensing. | Electron, React 19, TypeScript, Firebase | [Code](https://github.com/zihaaaad/Rupantor) · [Live Demo](https://zihaaaad.github.io/Rupantor/) |
 | **Chuti (ছুটি)** | Offline-first, on-premises Leave Management System with automated quota deductions, sandwich rule logic, and LAN sharing. | Next.js, TypeScript, SQLite (WAL), Tailwind | [Code](https://github.com/zihaaaad/Chuti) · [Live Demo](https://zihaaaad.github.io/Chuti/) |
 | **EchoScript** | High-fidelity background audio recorder and speech-to-text pipeline integrating Google Gemini API for real-time transcription. | Flutter, Dart, Gemini API, Android Services | [Code](https://github.com/zihaaaad/EchoScript) |
@@ -75,15 +77,16 @@ Generative AI and full-stack developer who ships production software across web,
 <p><strong><font size="6">Education & Training</font></strong></p>
 
 * **Phitron Software Engineering Program** — In progress since Feb 2026: C/C++ DSA & graphs, SQL, Python OOP, React, FastAPI + SQLAlchemy + JWT (100+ commits)
-* **BA in English** — National University of Bangladesh (Expected 2027)
-* **Alim Examination (Science)** — Gabtali Alim Madrasah, 2023 — GPA 4.63
-* **Secondary School Certificate (Science)** — Gabtali Alim Madrasah, 2021 — GPA 4.39
+* **BA (Honours) in English** — National University of Bangladesh — in progress, 2nd year (2023–24 session)
+* **Fazil (Pass), Islamic Studies** — Islamic Arabic University — in progress, 2nd year
+* **Alim (HSC-equivalent), Science** — Gabtali Alim Madrasah, 2023 — GPA 4.63/5.00
+* **Dakhil (SSC-equivalent), Science** — Gabtali Alim Madrasah, 2021 — GPA 4.39/5.00
 
 ---
 
 <p><strong><font size="6">Certifications & Publications</font></strong></p>
 
-**Certifications:** Manage Kubernetes in Google Cloud (Google) · DSA & OOP in Python (Phitron) · Generative AI for Educators · Computer Operation Level 3 (NSDA)
+**Certifications:** Fundamentals of MCP (Model Context Protocol) · Manage Kubernetes in Google Cloud (Google) · DSA & OOP in Python (Phitron) · Generative AI for Educators · Computer Operation Level 3 (NSDA)
 
 **Publication:** *Digital Shikar (ডিজিটাল শিকার)* — Bengali-language book on cybersecurity and smartphone privacy, published via Rokomari.
 
