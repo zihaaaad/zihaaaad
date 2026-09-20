@@ -53,7 +53,6 @@ Generative AI and full-stack developer who ships production software across web,
 | Repository | Focus & Architecture | Core Stack | Links |
 | :--- | :--- | :--- | :--- |
 | **institute-soc-monitor** | Agentless SOC platform for 100–300+ PCs across multiple subnets: rogue-device detection, MITRE ATT&CK mapping, CVSS risk scoring, Prometheus/Grafana dashboards. | Python, Prometheus, Grafana, WMI | [Code](https://github.com/zihaaaad/institute-soc-monitor) |
-| **Family Day ASF 2026 Tournament App** | Real-time sports tournament platform: live scoreboards, automated standings, a referee match console, and a PIN-gated admin dashboard with offline-fallback PWA support. | Next.js 15, Supabase, PWA | [Code](https://github.com/zihaaaad/FamilyDay2026) |
 | **Rupantor** | Desktop font management suite with Adobe After Effects/Bridge automation, OS-level font registry mapping, and offline licensing. | Electron, React 19, TypeScript, Firebase | [Code](https://github.com/zihaaaad/Rupantor) · [Live Demo](https://zihaaaad.github.io/Rupantor/) |
 | **Chuti (ছুটি)** | Offline-first, on-premises Leave Management System with automated quota deductions, sandwich rule logic, and LAN sharing. | Next.js, TypeScript, SQLite (WAL), Tailwind | [Code](https://github.com/zihaaaad/Chuti) · [Live Demo](https://zihaaaad.github.io/Chuti/) |
 | **EchoScript** | High-fidelity background audio recorder and speech-to-text pipeline integrating Google Gemini API for real-time transcription. | Flutter, Dart, Gemini API, Android Services | [Code](https://github.com/zihaaaad/EchoScript) |
