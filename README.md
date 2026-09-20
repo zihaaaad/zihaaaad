@@ -15,7 +15,7 @@
 
 <p><strong><font size="6">Profile Overview</font></strong></p>
 
-Generative AI and full-stack developer who ships production software across web, mobile, desktop, and backend — plus the security background to audit it. Built 61 repositories (22 public; TypeScript, Python, Dart), automated admissions and event workflows, and found a CVSS 9.1 critical vulnerability exposing student data, then re-tested the fixes. Currently teaching Generative AI and digital-literacy courses at the As-Sunnah Skill Development Institute, completed all semesters of Phitron's CS Fundamentals course (C, C++, Data Structures & Algorithms, then SQL, FastAPI, React; Semesters 1–2 CGPA 3.67), and author of *Digital Shikar*, a self-published Bengali-language book on cybersecurity and smartphone privacy.
+Generative AI and full-stack developer who ships production software across web, mobile, desktop, and backend — plus the security background to audit it. Built 61 repositories (22 public; TypeScript, Python, Dart), automated admissions and event workflows, and found a CVSS 9.1 critical vulnerability exposing student data, then re-tested the fixes. Currently teaching Generative AI and digital-literacy courses at the As-Sunnah Skill Development Institute, completed all semesters of Phitron's CS Fundamentals course (C, C++, Data Structures & Algorithms, Python OOP, SQL, FastAPI, React; Semesters 1–2 CGPA 3.67), and author of *Digital Shikar*, a self-published Bengali-language book on cybersecurity and smartphone privacy.
 
 ---
 
@@ -74,7 +74,7 @@ Generative AI and full-stack developer who ships production software across web,
 
 <p><strong><font size="6">Education & Training</font></strong></p>
 
-* **Phitron — CS Fundamentals (Fall 2025 session)** — Completed all semesters. Semesters 1–2: C, C++, Data Structures & Algorithms, CGPA 3.67 (Certificate PHDSA-077471791180). Semester 3: Python OOP, SQL, React, FastAPI (100+ commits)
+* **Phitron — CS Fundamentals (Fall 2025 session)** — Completed all semesters: C, C++, Data Structures & Algorithms, Python OOP, SQL, React, FastAPI (100+ commits). Semesters 1–2 CGPA 3.67 (Certificate PHDSA-077471791180)
 * **BA (Honours) in English** — National University of Bangladesh — in progress, 2nd year (2023–24 session)
 * **Fazil (Pass), Islamic Studies** — Islamic Arabic University — in progress, 2nd year
 * **Alim (HSC-equivalent), Science** — Gabtali Alim Madrasah, 2023 — GPA 4.63/5.00
