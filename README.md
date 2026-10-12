@@ -35,7 +35,7 @@ Generative AI and full-stack developer who ships production software across web,
 
 <p><strong><font size="6">Professional Experience</font></strong></p>
 
-**Assistant Educator** — As-Sunnah Skill Development Institute · *Nov 2024 – Present*
+**Assistant Instructor** — As-Sunnah Skill Development Institute · *Nov 2024 – Present*
 * Automated event registration and ticketing (Google Apps Script + LockService): concurrency-safe sign-ups, auto-generated PDF tickets, branded email delivery.
 * Run recurring penetration tests on the institute's platform (dedicated test lab, findings tracked on GitHub); found a **CVSS 9.1 critical Supabase RLS flaw** exposing student PII, reported it with a prioritized remediation roadmap, and re-tested the team's fixes.
 * Coordinated the takedown of a leaked PDF containing participants' names and phone numbers within 24 hours.
